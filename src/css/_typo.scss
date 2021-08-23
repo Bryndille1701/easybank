@@ -1,0 +1,27 @@
+.h1,
+.h2,
+.h3,
+.h4 {
+  color: $blue-dark;
+  font-weight: normal;
+  max-width: rem(640);
+}
+.h1 {
+  font-size: rem(60);
+}
+.h2 {
+  font-size: rem(40);
+}
+.h3 {
+  font-size: rem(26);
+}
+.h4 {
+  font-size: rem(16);
+}
+p {
+  color: $blue-grey;
+  max-width: rem(640);
+}
+.tagline {
+  font-size: rem(20);
+}
