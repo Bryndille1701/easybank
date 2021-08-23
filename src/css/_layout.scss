@@ -1,0 +1,9 @@
+body {
+  font-family: $font-default;
+}
+.wrapper {
+  width: 100%;
+  max-width: rem($wrapper);
+  margin-left: auto;
+  margin-right: auto;
+}
